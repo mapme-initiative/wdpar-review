@@ -1,2 +1,2 @@
 # wdpar-review
-Some test scripts for reviewing the wdpar JOSS submission. For more details on the review see [here](https://github.com/openjournals/joss-reviews/issues/4594). The scripts will include some test scenarios for Linux and MacOS. 
+Some test scripts for reviewing the `wdpaR` JOSS submission. [wdpaR](https://github.com/prioritizr/wdpar) is a package for downloading and preprocessing WDPA and WDOECM data from IUCN in the statistical programming language R. For more details on the review see [here](https://github.com/openjournals/joss-reviews/issues/4594). The scripts will include some test scenarios for Linux and MacOS. 
